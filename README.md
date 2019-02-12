@@ -21,4 +21,6 @@ De webservice bevindt zich op **[deze URL](https://thatsthespir.it/api)**. Dit h
 Indien het verzoek aan de webservice mislukt, geef dan een foutmelding. Indien het verzoek slaagt, vorm het JSON antwoord om in HTML en geef deze weer.
 Laat je webpagina er leuk uitzien m.b.v. CSS / SCSS.
 
+## linkadres: https://willemvangenechten.github.io/ajax-simple-web-service-request/
+
 
