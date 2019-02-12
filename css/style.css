@@ -1,0 +1,26 @@
+body {
+  color: #c4b69a;
+  background: #143441;
+}
+
+.container {
+  text-align: center;
+  margin-top: 50px;
+  max-width: 960px;
+  height: 600px;
+}
+
+.container h3 {
+  margin-bottom: 30px;
+  font-size: 40px;
+}
+
+.btn {
+  color: #c4b69a;
+  border: #c4b69a 2px solid;
+}
+
+#button {
+  margin: 10px auto;
+  text-align: center;
+}
